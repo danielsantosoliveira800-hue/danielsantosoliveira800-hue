@@ -1,8 +1,8 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Welcome%20to%20Daniel's%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%3C/%3E&descAlignY=60&descSize=18" /> </div> <div align="center">
 
-<a href="https://www.linkedin.com/in/dev-daniel-santos-6123b61b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/danielsantosoliveira800-hue/StockFlowJDBC"><img src="https://img.shields.io/badge/StockFlow-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://wa.me/55SEUNUMEROAQUI"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dev-daniel-santos-6123b61b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/danielsantosoliveira800-hue/StockFlowJDBC"><img src="https://img.shields.io/badge/StockFlow-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:danielsantosoliveira800@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://wa.me/5511954896562"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-</div> <br>
+</div> <br> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielsantosoliveira800-hue/danielsantosoliveira800-hue/output/github-contribution-grid-snake-dark.svg" /> <img src="https://raw.githubusercontent.com/danielsantosoliveira800-hue/danielsantosoliveira800-hue/output/github-contribution-grid-snake.svg" /> </picture> </div> <br>
 👋 Sobre mim
 <table> <tr> <td width="70%">
 
